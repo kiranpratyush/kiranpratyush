@@ -18,7 +18,7 @@
 
 📌 Contact Me :
 
-<!-- [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://hashnode.com/@ankitaB) -->
-<!-- [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/ankita-bagale1108/) -->
-<!-- [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/AnkitaB1108) -->
-<!-- [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/ankitab1108/) -->
+<!-- [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>]("https://twitter.com/kiran_pratyush) -->
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/pratyush-kiran-57542019b/)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>]("https://twitter.com/kiran_pratyush)
+
